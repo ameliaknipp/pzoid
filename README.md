@@ -1,24 +1,8 @@
-# README
+#Readme
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an instragram clone.
 
-Things you may want to cover:
+Create a user login/sign up and ability to post pictures to display in a feed.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Deployed at:
+https://pzoid.herokuapp.com/
